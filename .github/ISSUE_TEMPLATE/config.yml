@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/[username]/alternatives-to-vercel/discussions
+    about: Ask questions and discuss alternatives to Vercel
+  - name: 📖 Contributing Guidelines
+    url: https://github.com/[username]/alternatives-to-vercel/blob/main/CONTRIBUTING.md
+    about: Learn how to contribute to this project
+  - name: 🚀 Add New Platform (Pull Request)
+    url: https://github.com/[username]/alternatives-to-vercel/compare
+    about: Use the "Add New Platform" PR template to contribute a new platform

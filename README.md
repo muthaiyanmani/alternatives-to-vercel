@@ -141,37 +141,6 @@ A curated list of frontend hosting platforms and deployment services that serve 
 - **Pros**: Good integration with Azure services, built-in auth
 - **Cons**: Newer service, limited community, Microsoft ecosystem focused
 
-## Edge Computing Platforms
-
-### Deno Deploy
-- **Website**: https://deno.com/deploy
-- **Pricing**: Free tier available, usage-based pricing
-- **Next.js Support**: ❌ (Deno runtime only)
-- **React Support**: ✅ Fresh framework (Deno's React-like framework)
-- **Key Features**:
-  - Global edge runtime (35+ regions)
-  - TypeScript/JavaScript native
-  - Web standards APIs
-  - Git integration
-  - Zero cold starts
-- **Best For**: TypeScript-first applications, edge-native apps
-- **Pros**: Modern runtime, excellent TypeScript support, global edge deployment
-- **Cons**: Limited to Deno runtime, no Next.js support, smaller ecosystem
-
-### Supabase (Edge Functions + Hosting)
-- **Website**: https://supabase.com
-- **Pricing**: Free tier available, paid plans from $25/month
-- **Next.js Support**: ✅ Full support with integrated backend
-- **Key Features**:
-  - PostgreSQL database
-  - Authentication and authorization
-  - Real-time subscriptions
-  - Edge functions (Deno runtime)
-  - Storage and CDN
-- **Best For**: Full-stack Next.js apps needing backend services
-- **Pros**: Complete backend solution, open source, excellent Next.js integration
-- **Cons**: Newer platform, primarily database-focused pricing
-
 ## Self-Hosted Frontend Solutions
 
 ### Coolify

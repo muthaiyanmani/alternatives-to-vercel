@@ -55,6 +55,20 @@ A curated list of frontend hosting platforms and deployment services that serve 
 - **Pros**: Competitive pricing, good performance, managed databases
 - **Cons**: Limited to specific regions, smaller ecosystem
 
+### Catalyst Slate
+- **Website**: https://catalyst.zoho.com/slate
+- **Pricing**: Free $250 credits, Pay-as-you-go, subscription based
+- **Next.js Support**: ✅ SSR, SSG, API routes, background jobs
+- **Key Features**:
+  - Git-based deployments
+  - Automatic Next.js optimization
+  - Custom domains with SSL
+  - Preview environments
+  - Built-in CDN with edge caching
+- **Best For**: Production Next.js applications with backend needs
+- **Pros**: Competitive pricing, good performance, generous free tier, great DX
+- **Cons**: Newer platform
+
 ## Frontend Hosting Platforms
 
 ### Cloudflare Pages
